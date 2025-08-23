@@ -6,9 +6,9 @@ It is an official implementation built upon the py-faster-rcnn codebase by Ross 
 
 Disclaimer and Copyright
 
-This project is based on the [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn.git) developed by Ross Girshick and other contributors. The original code is released under the MIT License, as stated in its repository.
+This project is based on the [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn.git) developed by Ross Girshick and other contributors. The original code is released under the  **MIT**  License, as stated in its repository.
 
-This derivative work is also distributed under the MIT License. The copyright and licensing terms of the original project remain in effect. Please see the LICENSE file in the original repository and this one for more details.
+This derivative work is also distributed under the  **MIT**  License. The copyright and licensing terms of the original project remain in effect. Please see the LICENSE file in the original repository and this one for more details.
 
 We acknowledge and are grateful for the significant contribution of the original authors.
 
@@ -24,7 +24,7 @@ After successful installation, you can use this code to reproduce experiment res
 
       python2 ./tools/test_net.py --def paper_result/test.prototxt --net paper_result/model.caffemodel --imdb voc_2007_test --cfg experiments/cfgs/faster_rcnn_end2end.yml
 
-  The detection results is stored in det_scr_box.txt, which can be used to reproduce MR results in CityPersons datasets
+  The detection results is stored in  _det_scr_box.txt_ , which can be used to reproduce MR results in CityPersons datasets
 
 Thanks original Faster R-CNN Paper:
 
