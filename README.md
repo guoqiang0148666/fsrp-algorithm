@@ -1,4 +1,4 @@
-This repository contains code for the paper "Enhancing Pedestrian Detection Accuracy: A Full-Stage Refined Proposal Algorithm for False Positive Suppression" is submmited in Visual Computer.
+This repository contains code for the paper "Enhancing Pedestrian Detection Accuracy: A Full-Stage Refined Proposal Algorithm for False Positive Suppression" is submmited in [Visual Computer](https://link.springer.com/journal/371).
 
 Disclaimer
 
@@ -6,7 +6,7 @@ It is an official implementation built upon the py-faster-rcnn codebase by Ross 
 
 Disclaimer and Copyright
 
-This project is based on the py-faster-rcnn developed by Ross Girshick and other contributors. The original code is released under the MIT License, as stated in its repository.
+This project is based on the [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn.git) developed by Ross Girshick and other contributors. The original code is released under the MIT License, as stated in its repository.
 
 This derivative work is also distributed under the MIT License. The copyright and licensing terms of the original project remain in effect. Please see the LICENSE file in the original repository and this one for more details.
 
@@ -14,7 +14,7 @@ We acknowledge and are grateful for the significant contribution of the original
 
 Installation
 
-The installation process for this codebase is identical to the original py-faster-rcnn requirements. Please follow the installation instructions provided in the official py-faster-rcnn README.
+The installation process for this codebase is identical to the original py-faster-rcnn requirements. Please follow the installation instructions provided in the official py-faster-rcnn [README](https://github.com/rbgirshick/py-faster-rcnn.git/README.md).
 
 Usage
 
