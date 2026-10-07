@@ -1,4 +1,4 @@
-This repository contains code for the paper "Enhancing Pedestrian Detection Accuracy: A Full-Stage Refined Proposal Algorithm for False Positive Suppression" is submmited in [Visual Computer](https://link.springer.com/journal/371).
+This repository contains code for the paper "Enhancing Pedestrian Detection Accuracy: A Full-Stage Refined Proposal Algorithm for False Positive Suppression".
 
 Disclaimer
 
